@@ -1,0 +1,5 @@
+# v1.0.0 — RIMAN RESEARCH: Clinical & Regulatory Transparency Evaluation of INCELLDERM Calming Balance Gel in the Italian Market
+
+- Portal detail: https://www.riman.win/www/en/reports/detail/it-incellderm-calming-gel-regulatory-in-ci-trust-study.html
+- Theme hub: https://www.riman.win/www/en/reports/hub/regulatory.html
+- Dual DOIs: Kaggle 10.34740/kaggle/dsv/22383536 · Hugging Face 10.57967/hf/11688
